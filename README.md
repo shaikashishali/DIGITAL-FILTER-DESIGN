@@ -24,3 +24,5 @@ In terms of performance analysis, the Verilog-based FIR filter exhibited low lat
 In conclusion, the implementation and simulation of a digital FIR filter using Verilog offers an excellent insight into digital filter design and hardware modeling. Through the use of HDL constructs, synchronous logic, and simulation tools, students and engineers can gain practical experience in creating robust digital systems. The structured approach of defining coefficients, managing shift registers, and performing multiply-accumulate operations demonstrates the core principles of digital filtering. With successful simulation and waveform analysis, this FIR filter serves as a foundational component that can be extended or integrated into more complex signal processing systems in real-world applications.
 
 #output:
+
+![Image](https://github.com/user-attachments/assets/6b6246e3-37c5-49f5-a0b9-4932e949f627)
